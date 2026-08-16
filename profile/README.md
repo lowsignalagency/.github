@@ -11,8 +11,8 @@ We build systems that help companies grow by combining **product, marketing, tec
 ## 🚀 What we build
 
 **Low Social** — Social Media  
-**Low Ads** — Performance & Growth  
-**Low Web** — Websites & Digital Experiences  
+**Low Ads** — Paid Media 
+**Low Web** — Web Development
 **Low Scale** — Growth Systems  
 **Low Apps** — Products & Apps  
 **Low Flow** — AI & Automation  
