@@ -1,30 +1,43 @@
 # / lowsignal
 
-**Growth Systems for Companies.**
+### Growth Systems for Companies.
 
-We build systems that help companies grow by combining **product, marketing, technology and AI.**
+We build the systems behind growth.
 
-[Website](https://www.lowsignal.cl/) · [LinkedIn](https://www.linkedin.com/company/lowsignalagency) · [Instagram](https://www.instagram.com/lowsignalagency/)
+Strategy, marketing, technology, product and AI — connected into one operating system for companies that want to grow with more clarity, speed and consistency.
+
+🌐 [Website](https://lowsignal.cl) · [LinkedIn](https://cl.linkedin.com/company/lowsignalagency) · [Instagram](https://instagram.com/lowsignalagency)
 
 ---
 
-## 🚀 What we build
+## Where we work
 
-**Low Social** — Social Media  
+### Education
+For schools, educational networks, foundations and education companies building stronger brands, better digital experiences and more effective enrollment systems.
+
+### B2B
+For SaaS, technology, services and industrial companies where growth depends on positioning, demand generation, conversion and long-term relationships.
+
+### Consumer Brands
+For retail, hospitality, food and lifestyle brands turning attention, content and paid media into measurable growth.
+
+---
+
+## What we build
+
+**Low Social** — Social Media & Content  
 **Low Ads** — Paid Media  
 **Low Web** — Web Development  
 **Low Scale** — Growth Systems  
 **Low Apps** — Products & Apps  
-**Low Flow** — AI & Automation  
+**Low Flow** — AI & Automation
 
 ---
 
-## ⚡ How we think
+## How we think
 
-Less noise.  
-Better systems.  
-More growth.
+We don't build isolated tactics.
 
----
+We connect **positioning → demand → conversion → operations** into systems designed to scale.
 
-### Less noise. More growth. 🚀
+**Less noise. More growth.**
