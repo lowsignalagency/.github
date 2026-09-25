@@ -6,7 +6,7 @@ We build the systems behind growth.
 
 Strategy, marketing, technology, product and AI — connected into one operating system for companies that want to grow with more clarity, speed and consistency.
 
-🌐 [Website](https://lowsignal.cl) · [LinkedIn](https://cl.linkedin.com/company/lowsignalagency) · [Instagram](https://instagram.com/lowsignalagency)
+[Website](https://lowsignal.cl) · [LinkedIn](https://cl.linkedin.com/company/lowsignalagency) · [Instagram](https://instagram.com/lowsignalagency)
 
 ---
 
