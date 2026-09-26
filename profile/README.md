@@ -25,12 +25,12 @@ For retail, hospitality, food and lifestyle brands turning attention, content an
 
 ## What we build
 
-**Low Social** — Social Media 
-**Low Ads** — Paid Media  
-**Low Web** — Web Development  
-**Low Scale** — Growth Systems  
-**Low Flow** — AI & Automation
-**Low Apps** — Products & Apps  
+- **Low Social** — Social Media
+- **Low Ads** — Paid Media
+- **Low Web** — Web Development
+- **Low Scale** — Growth Systems
+- **Low Flow** — AI & Automation
+- **Low Apps** — Products & Apps
 
 ---
 
