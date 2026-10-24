@@ -88,20 +88,20 @@ For **retail, hospitality, food and lifestyle brands** turning attention, conten
 Education, brand and digital growth built around a connected school community.
 </td>
 <td width="33%" valign="top" align="center">
-<a href="https://lowsignal.cl/casos/rikdom">
-<img src="https://raw.githubusercontent.com/lowsignalagency/lowsignal-web/main/assets/galpon-merk.jpg" width="260" height="173" alt="Rikdom" />
-</a>
-<br />
-<strong>Rikdom</strong><br />
-A clearer digital presence for a growing industrial brand.
-</td>
-<td width="33%" valign="top" align="center">
 <a href="https://lowsignal.cl/casos/hub-providencia">
 <img src="https://raw.githubusercontent.com/lowsignalagency/lowsignal-web/main/assets/hub-bg.jpg" width="260" alt="Hub Providencia" />
 </a>
 <br />
 <strong>Hub Providencia</strong><br />
 Content, campaigns and digital growth for a local entrepreneurship ecosystem.
+</td>
+<td width="33%" valign="top" align="center">
+<a href="https://lowsignal.cl/casos/dulce-reino">
+<img src="https://raw.githubusercontent.com/lowsignalagency/lowsignal-web/main/assets/dulce-reino-pasteleria.jpg" width="260" alt="DulceReino" />
+</a>
+<br />
+<strong>DulceReino</strong><br />
+Content, brand and growth for a consumer business built to stand out.
 </td>
 </tr>
 </table>
