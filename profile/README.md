@@ -89,7 +89,7 @@ Education, brand and digital growth built around a connected school community.
 </td>
 <td width="33%" valign="top" align="center">
 <a href="https://lowsignal.cl/casos/rikdom">
-<img src="https://raw.githubusercontent.com/lowsignalagency/lowsignal-web/main/assets/galpon-merk.jpg" width="260" alt="Rikdom" />
+<img src="https://raw.githubusercontent.com/lowsignalagency/lowsignal-web/main/assets/galpon-merk.jpg" width="210" alt="Rikdom" />
 </a>
 <br />
 <strong>Rikdom</strong><br />
