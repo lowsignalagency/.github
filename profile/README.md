@@ -43,7 +43,7 @@ We don't think in isolated campaigns. We build the systems behind growth.
 
 For **schools, educational networks, foundations and education companies** building stronger brands, better digital experiences and more effective enrollment systems.
 
-[Explore Education →](https://lowsignal.cl/industrias/educacion/)
+[Explore Education →](https://lowsignal.cl/industrias/educacion.html)
 
 </td>
 <td width="33%" valign="top">
@@ -52,7 +52,7 @@ For **schools, educational networks, foundations and education companies** build
 
 For **SaaS, technology, services and industrial companies** where growth depends on positioning, demand generation, conversion and long-term relationships.
 
-[Explore B2B →](https://lowsignal.cl/industrias/b2b/)
+[Explore B2B →](https://lowsignal.cl/industrias/b2b.html)
 
 </td>
 <td width="33%" valign="top">
@@ -61,7 +61,7 @@ For **SaaS, technology, services and industrial companies** where growth depends
 
 For **retail, hospitality, food and lifestyle brands** turning attention, content and paid media into measurable growth.
 
-[Explore Consumer →](https://lowsignal.cl/industrias/b2c/)
+[Explore Consumer →](https://lowsignal.cl/industrias/marcas-b2c.html)
 
 </td>
 </tr>
@@ -87,7 +87,7 @@ For **retail, hospitality, food and lifestyle brands** turning attention, conten
 <table>
 <tr>
 <td width="33%" valign="top">
-<a href="https://lowsignal.cl/casos/fundacion-crecer-con-todos/">
+<a href="https://lowsignal.cl/casos/fcct.html">
 <img src="https://raw.githubusercontent.com/lowsignalagency/lowsignal-web/main/assets/web-crecer.jpg" width="100%" alt="Fundación Crecer con Todos" />
 </a>
 <br />
@@ -95,7 +95,7 @@ For **retail, hospitality, food and lifestyle brands** turning attention, conten
 Digital experience for an organization that has impacted 80,000+ children.
 </td>
 <td width="33%" valign="top">
-<a href="https://lowsignal.cl/casos/colegio-san-jorge/">
+<a href="https://lowsignal.cl/casos/san-jorge.html">
 <img src="https://raw.githubusercontent.com/lowsignalagency/lowsignal-web/main/assets/case-san-jorge.webp" width="100%" alt="Colegio San Jorge" />
 </a>
 <br />
@@ -103,7 +103,7 @@ Digital experience for an organization that has impacted 80,000+ children.
 Brand, digital presence and communication built for a school community.
 </td>
 <td width="33%" valign="top">
-<a href="https://lowsignal.cl/casos/rikdom/">
+<a href="https://lowsignal.cl/casos/rikdom.html">
 <img src="https://raw.githubusercontent.com/lowsignalagency/lowsignal-web/main/assets/rikdom_web.jpg" width="100%" alt="Rikdom" />
 </a>
 <br />
