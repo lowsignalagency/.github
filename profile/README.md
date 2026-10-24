@@ -36,7 +36,7 @@ We don't think in isolated campaigns. We build the systems behind growth.
 
 For **schools, educational networks, foundations and education companies** building stronger brands, better digital experiences and more effective enrollment systems.
 
-[Explore Education →](https://lowsignal.cl/industrias/educacion.html)
+[Explore Education →](https://lowsignal.cl/industrias/educacion)
 
 </td>
 <td width="33%" valign="top">
@@ -45,7 +45,7 @@ For **schools, educational networks, foundations and education companies** build
 
 For **SaaS, technology, services and industrial companies** where growth depends on positioning, demand generation, conversion and long-term relationships.
 
-[Explore B2B →](https://lowsignal.cl/industrias/b2b.html)
+[Explore B2B →](https://lowsignal.cl/industrias/b2b)
 
 </td>
 <td width="33%" valign="top">
@@ -54,7 +54,7 @@ For **SaaS, technology, services and industrial companies** where growth depends
 
 For **retail, hospitality, food and lifestyle brands** turning attention, content and paid media into measurable growth.
 
-[Explore Consumer →](https://lowsignal.cl/industrias/marcas-b2c.html)
+[Explore Consumer →](https://lowsignal.cl/industrias/marcas-b2c)
 
 </td>
 </tr>
@@ -80,24 +80,24 @@ For **retail, hospitality, food and lifestyle brands** turning attention, conten
 <table>
 <tr>
 <td width="33%" valign="top">
-<a href="https://lowsignal.cl/casos/fcct.html">
-<img src="https://raw.githubusercontent.com/lowsignalagency/lowsignal-web/main/assets/web-crecer.jpg" width="100%" alt="Fundación Crecer con Todos" />
+<a href="https://lowsignal.cl/casos/fcct">
+<img src="https://raw.githubusercontent.com/lowsignalagency/lowsignal-web/main/assets/crecer-ninos.png" width="100%" alt="Fundación Crecer con Todos" />
 </a>
 <br />
 <strong>Fundación Crecer con Todos</strong><br />
 Digital experience for an organization that has impacted 80,000+ children.
 </td>
 <td width="33%" valign="top">
-<a href="https://lowsignal.cl/casos/san-jorge.html">
-<img src="https://raw.githubusercontent.com/lowsignalagency/lowsignal-web/main/assets/case-san-jorge.webp" width="100%" alt="Colegio San Jorge" />
+<a href="https://lowsignal.cl/casos/san-jorge">
+<img src="https://raw.githubusercontent.com/lowsignalagency/lowsignal-web/main/assets/sanjorge-ninos.png" width="100%" alt="Colegio San Jorge" />
 </a>
 <br />
 <strong>Colegio San Jorge</strong><br />
 Brand, digital presence and communication built for a school community.
 </td>
 <td width="33%" valign="top">
-<a href="https://lowsignal.cl/casos/rikdom.html">
-<img src="https://raw.githubusercontent.com/lowsignalagency/lowsignal-web/main/assets/rikdom_web.jpg" width="100%" alt="Rikdom" />
+<a href="https://lowsignal.cl/casos/rikdom">
+<img src="https://raw.githubusercontent.com/lowsignalagency/lowsignal-web/main/assets/galpon-merk.jpg" width="100%" alt="Rikdom" />
 </a>
 <br />
 <strong>Rikdom</strong><br />
@@ -106,7 +106,7 @@ A new digital presence designed to strengthen a growing industrial brand.
 </tr>
 </table>
 
-[**See more customer stories →**](https://lowsignal.cl/casos.html)
+[**See more customer stories →**](https://lowsignal.cl/casos)
 
 ---
 
@@ -116,6 +116,6 @@ A new digital presence designed to strengthen a growing industrial brand.
 
 **Build what’s next.**
 
-[Website](https://lowsignal.cl) · [Customer Stories](https://lowsignal.cl/casos.html) · [About](https://lowsignal.cl/nosotros.html)
+[Website](https://lowsignal.cl) · [Customer Stories](https://lowsignal.cl/casos) · [About](https://lowsignal.cl/nosotros)
 
 </div>
