@@ -1,12 +1,5 @@
 <div align="center">
 
-<a href="https://lowsignal.cl">
-  <img src="https://raw.githubusercontent.com/lowsignalagency/lowsignal-web/main/assets/og-lowsignal.png" alt="lowsignal — Growth Systems for Companies" width="100%" />
-</a>
-
-<br />
-<br />
-
 # Growth Systems for Companies.
 
 **Strategy, marketing, technology, product and AI — connected into one growth system.**
