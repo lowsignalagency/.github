@@ -96,12 +96,12 @@ Education, brand and digital growth built around a connected school community.
 A clearer digital presence for a growing industrial brand.
 </td>
 <td width="33%" valign="top" align="center">
-<a href="https://lowsignal.cl/casos/dulce-reino">
-<img src="https://raw.githubusercontent.com/lowsignalagency/lowsignal-web/main/assets/dulce-reino-pasteleria.jpg" width="260" alt="DulceReino" />
+<a href="https://lowsignal.cl/casos/hub-providencia">
+<img src="https://raw.githubusercontent.com/lowsignalagency/lowsignal-web/main/assets/hub-bg.jpg" width="260" alt="Hub Providencia" />
 </a>
 <br />
-<strong>DulceReino</strong><br />
-Content, brand and growth for a consumer business built to stand out.
+<strong>Hub Providencia</strong><br />
+Content, campaigns and digital growth for a local entrepreneurship ecosystem.
 </td>
 </tr>
 </table>
